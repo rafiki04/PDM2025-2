@@ -8,6 +8,11 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+/**
+ * @author Ximena Andrade Luviano.
+ * <a href="mailto:andradeluvianoximena@ciencias.unam.mx">andradeluvianoximena@ciencias.uanm.mx</a>
+ * */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
