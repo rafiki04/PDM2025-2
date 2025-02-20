@@ -11,6 +11,7 @@ import androidx.core.view.WindowInsetsCompat;
  * @author Gonzalez Jimenez Cristian Rafael
  * <a href="cris_rgj13@hotmail.com">cris_rgj13@hotmail.com</a>
  **/
+/**hola ximena**/
 
 public class MainActivity extends AppCompatActivity {
 
