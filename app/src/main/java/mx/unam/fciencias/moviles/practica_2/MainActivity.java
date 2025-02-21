@@ -13,6 +13,11 @@ import androidx.core.view.WindowInsetsCompat;
  **/
 /**hola ximena**/
 
+/**
+ * @author Ximena Andrade Luviano.
+ * <a href="mailto:andradeluvianoximena@ciencias.unam.mx">andradeluvianoximena@ciencias.uanm.mx</a>
+ * */
+//Hola mundo :)
 public class MainActivity extends AppCompatActivity {
 
     @Override
